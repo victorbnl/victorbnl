@@ -1,3 +1,3 @@
 # Hello there
 
-My name is Victor Bonnelle and I'm a future software developer.
+My name is Victor B. and I'm a future software developer.
