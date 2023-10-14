@@ -12,3 +12,6 @@ Hi! I'm Victor. I'm a software developer.
   editor
 - [arduboy-pong](https://github.com/victorbnl/arduboy-pong) – A simple pong game
   for Arduboy
+
+## Other
+- [dotfiles](https://github.com/victorbnl/dotfiles) – My personal dotfiles
